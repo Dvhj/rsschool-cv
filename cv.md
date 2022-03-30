@@ -6,3 +6,10 @@
 * __GitHub:__ Dvhj
 ## About Myself
 I study front-end development in my spare time
+## Scills
+* __HTML__
+* __CSS__
+* __JavaScript (Beginner)__
+* __React (Beginner)__
+* __Python (Base)__
+* __Git__
