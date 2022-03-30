@@ -11,5 +11,26 @@ I study front-end development in my spare time
 * __CSS__
 * __JavaScript (Beginner)__
 * __React (Beginner)__
-* __Python (Base)__
 * __Git__
+## Code Example
+```
+function solution(number){
+  let count = 0;
+  if (number < 0)return 0;
+  else { 
+    for ( let i = 0; i < number; i++) {
+      if ( i % 3 == 0 || i % 5 == 0){
+        count += i
+      } 
+    } return count
+  }
+}
+```
+## Courses and Education
+* __SoloLearn: JavaScript__
+* __Stepik: JavaScript for beginner__
+* __YouTube__
+## Languages
+* __Russian - Native__
+* __English - B1__
+
